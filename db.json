@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "title": "Learn react-router",
+      "isDone": true,
+      "id": 1
+    },
+    {
+      "title": "Learn to use context",
+      "isDone": true,
+      "id": 2
+    },
+    {
+      "title": "Learn to implement auth",
+      "isDone": false,
+      "id": 3
+    },
+    {
+      "title": "Learn something new",
+      "isDone": true,
+      "id": 4
+    },
+    {
+      "title": "new data",
+      "isDone": false,
+      "id": 5
+    }
+  ]
+}
